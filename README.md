@@ -1,2 +1,2 @@
 # Learning Tronix
-My knowldge repository
+Ooh! The journey!
